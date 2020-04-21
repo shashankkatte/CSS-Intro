@@ -1,0 +1,15 @@
+/* How to select all elements of a type here ist entire body */
+body {
+    background: powderblue;
+}
+
+/* This is how you select an ID remember the # */
+#special
+{
+    color: red;
+}
+
+/* Select all elements with a single class . Remember the dot . */
+.compleyed {
+    text-decoration: line-through;
+}
