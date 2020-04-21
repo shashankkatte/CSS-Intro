@@ -1,12 +1,24 @@
 h1 {
     color: #FF8000;
+    /* border-color: purple;
+    border-width: 5px;
+    border-style:solid; */
+
+    border: 1px solid purple;
 }
 /* RGB provides more granular control on color shades as each component gives 256 options vs 16 using HEX */
 h4 {
     color: rgb(0,12,255);
+    background: rgb(255, 100, 80);
 }
 
 /* Also its good to try RGBA it has the A or Alpha channel that lets you control its transparency */
 li {
     color: rgba(0, 200, 100,0.5);
+}
+body {
+    /* background: url(https://wxguys.ssec.wisc.edu/wp-content/uploads/2018/07/5b4b6e5cc0e10.image_.jpg);
+    background-repeat: no-repeat;
+    background-size: auto; */
+    background: pink;
 }
