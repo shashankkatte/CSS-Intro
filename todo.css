@@ -10,6 +10,6 @@ body {
 }
 
 /* Select all elements with a single class . Remember the dot . */
-.compleyed {
+.completed {
     text-decoration: line-through;
 }
