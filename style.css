@@ -1,10 +1,10 @@
 /* Font family */
 p {
-  font-family: Arial;
+    font-family: 'Raleway', sans-serif;
 }
 
 h1 {
-  font-family: Georgia;
+    font-family: 'Indie Flower', cursive;
 }
 
 /* Font size */
